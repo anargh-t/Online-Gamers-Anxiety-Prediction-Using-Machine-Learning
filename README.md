@@ -10,7 +10,7 @@ Gaming Habits and Psychological Well-being, an international dataset about the A
 
 This dataset contains 55 attributes like age, gender, hours of gaming, different scoring criteria used in psychology like GAD(General Anxiety Disorder), SWL(Satisfaction with Life), and SPIN(Social Phobia Inventory) scores. This also contains a few generic questions about their gaming style, their motivation (why do they play online games) and more.
 
-![Screenshot 2024-05-16 230619](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/e60e2a81-6251-4982-8b30-9253922d5d0a)
+![image](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/0caf211e-a5a9-473f-bd75-9dc6cc6fb2c3)
 
 
 **EDA**
