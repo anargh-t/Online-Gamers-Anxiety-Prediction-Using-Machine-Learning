@@ -13,7 +13,7 @@ This dataset contains 55 attributes like age, gender, hours of gaming, different
 ![Screenshot 2024-05-16 230619](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/e60e2a81-6251-4982-8b30-9253922d5d0a)
 
 
-*EDA*
+**EDA**
 
 ![Screenshot 2024-05-16 230856](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/1d4fd6f2-c9ed-4238-a82d-b36b124330e3)
 ![Screenshot 2024-05-16 231001](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/4985f6d1-971a-4c8a-8d48-18360dc015f7)
@@ -21,3 +21,11 @@ This dataset contains 55 attributes like age, gender, hours of gaming, different
 ![Screenshot 2024-05-16 230942](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/c4e73af1-9db2-48a1-a1fc-917d87bab83c)
 ![Screenshot 2024-05-16 230931](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/7a6c0599-e42a-4d9c-97a1-bfcaf4e12b99)
 ![Screenshot 2024-05-16 230908](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/98557a15-1681-41c4-8f6c-d79271873e09)
+
+
+**Heatmap**
+![image](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/30ffcae9-58a9-4499-95a3-273574ef3fb6)
+
+
+**Final Clusters**
+![image](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/13fc73d8-e020-400b-9a65-dceaf7d0e5e3)
