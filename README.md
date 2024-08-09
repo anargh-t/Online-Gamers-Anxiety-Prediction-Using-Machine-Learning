@@ -13,6 +13,7 @@ This dataset contains 55 attributes like age, gender, hours of gaming, different
 ![image](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/0caf211e-a5a9-473f-bd75-9dc6cc6fb2c3)
 
 
+
 **EDA**
 
 ![Screenshot 2024-05-16 230856](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/1d4fd6f2-c9ed-4238-a82d-b36b124330e3)
@@ -25,6 +26,7 @@ This dataset contains 55 attributes like age, gender, hours of gaming, different
 
 **Heatmap**
 ![image](https://github.com/anargh-t/Online-Gamers-Anxiety-Prediction-Using-Machine-Learning/assets/133887240/30ffcae9-58a9-4499-95a3-273574ef3fb6)
+
 
 
 **Final Clusters**
